@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">POGODKA</string>
+    <string name="city">Москва</string>
+    <string name="date">Четверг, 15 Января 2026 Г.</string>
+    <string name="temperature">-5°</string>
+    <string name="condition">Облачно</string>
+    <string name="humidity">Влажность</string>
+    <string name="wind">Ветер</string>
+    <string name="pressure">Давление</string>
+    <string name="open_calendar">Открыть календарь</string>
+    <string name="calendar_not_found">Календарь не найден</string>
+
+    <string name="main_screen">Главный экран</string>
+    <string name="forecast">Прогноз</string>
+    <string name="settings">Настройки</string>
+    <string name="week">Неделя</string>
+    <string name="day">День</string>
+
+    <string name="humidity_value">%d%%</string>
+    <string name="wind_value">%d %s</string>
+    <string name="pressure_value">%d</string>
+
+    <!-- Настройки -->
+    <string name="celsius">Цельсий (°C)</string>
+    <string name="fahrenheit">Фаренгейт (°F)</string>
+    <string name="wind_unit_ms">м/с</string>
+    <string name="wind_unit_kmh">км/ч</string>
+    <string name="time_24h">24 часа</string>
+    <string name="time_12h">12 часов (AM/PM)</string>
+    <string name="russian">Русский</string>
+    <string name="english">English</string>
+    <string name="notifications_enabled">Включены</string>
+    <string name="notifications_disabled">Выключены</string>
+    <string name="notifications_changed">Уведомления %s</string>
+
+    <!-- Заголовки диалогов -->
+    <string name="select_scale">Выберите шкалу</string>
+    <string name="select_wind_unit">Единицы скорости ветра</string>
+    <string name="select_language">Язык приложения</string>
+    <string name="select_time_format">Формат времени</string>
+    <string name="cancel">Отмена</string>
+</resources>
